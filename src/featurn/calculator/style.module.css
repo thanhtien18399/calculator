@@ -18,6 +18,7 @@
 .item {
     width: 25%;
     height: 50px;
+    color: black;
     outline: none;
     font-size: 20px;
     border: 0.1px solid rgb(212, 212, 212);
